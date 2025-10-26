@@ -1,2 +1,3 @@
 # Code-of-Cundoct
-Code of Conduct
+
+See “[Code of Conduct](CODE_OF_CONDUCT.md).”
