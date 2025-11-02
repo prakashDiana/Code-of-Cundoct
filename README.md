@@ -13,4 +13,4 @@ See “[Code of Conduct](CODE_OF_CONDUCT.md).”
 <p style="font-family: 'Source Sans Pro', Source-Sans-Pro, sans-serif; hanging-punctuation: first;">This <span style="font-variant-caps: all-small-caps;">AI</span> playback is powered by Chrome.</p>
 
 <p style="font-family: 'Source Sans Pro', Source-Sans-Pro, sans-serif; hanging-punctuation: first;"><span style="font-feature-settings: 'c2sc';">[MALE]</span> Let’s explore the world of open-source Unicode typefaces.</p>
-<p style="font-family: 'Source Sans Pro', Source-Sans-Pro, sans-serif; hanging-punctuation: first;"><span style="font-feature-settings: 'c2sc';">[FEMALE]</span> Right! According to Wikipedia, these typefaces are open-source.</p>
+<p style="font-family: 'Source Sans Pro', Source-Sans-Pro, sans-serif; hanging-punctuation: first;"><span style="font-feature-settings: 'c2sc';">[FEMALE]</span> Right! According to Wikipedia, these typefaces are open-source. They’re designed to include glyphs for a broad selection of Unicode scripts.</p>
