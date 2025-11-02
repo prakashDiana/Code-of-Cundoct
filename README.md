@@ -9,3 +9,5 @@ See “[Code of Conduct](CODE_OF_CONDUCT.md).”
 <p style="font-family: 'Source Sans Pro', Source-Sans-Pro, sans-serif; hanging-punctuation: first;"><em>Maximum</em> legibility <span style="font-feature-settings: 'onum', 'pnum';">0123456789</span></p>
 
 [^1]: Hanging punctuation may not work on major browsers...
+
+<p style="font-family: 'Source Sans Pro', Source-Sans-Pro, sans-serif; hanging-punctuation: first;">This <span style="font-variant-caps: all-small-caps;">AI</span> playback is powered by Chrome.</p>
