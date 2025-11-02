@@ -11,3 +11,5 @@ See “[Code of Conduct](CODE_OF_CONDUCT.md).”
 [^1]: Hanging punctuation may not work on major browsers...
 
 <p style="font-family: 'Source Sans Pro', Source-Sans-Pro, sans-serif; hanging-punctuation: first;">This <span style="font-variant-caps: all-small-caps;">AI</span> playback is powered by Chrome.</p>
+
+<p style="font-family: 'Source Sans Pro', Source-Sans-Pro, sans-serif; hanging-punctuation: first;"><span style="font-feature-settings: 'c2sc';">[MALE]</span> Let’s explore the world of open-source Unicode typefaces.</p>
