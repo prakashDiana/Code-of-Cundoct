@@ -14,3 +14,4 @@ See “[Code of Conduct](CODE_OF_CONDUCT.md).”
 
 <p style="font-family: 'Source Sans Pro', Source-Sans-Pro, sans-serif; hanging-punctuation: first;"><span style="font-feature-settings: 'c2sc';">[MALE]</span> Let’s explore the world of open-source Unicode typefaces.</p>
 <p style="font-family: 'Source Sans Pro', Source-Sans-Pro, sans-serif; hanging-punctuation: first;"><span style="font-feature-settings: 'c2sc';">[FEMALE]</span> Right! According to Wikipedia, these typefaces are open-source. They’re designed to include glyphs for a broad selection of Unicode scripts.</p>
+<p style="font-family: 'Source Sans Pro', Source-Sans-Pro, sans-serif; hanging-punctuation: first;"><span style="font-feature-settings: 'c2sc';">[MALE]</span> Makes sense, but—what if a project only needs a certain script?</p>
